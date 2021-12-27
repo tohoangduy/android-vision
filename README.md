@@ -11,3 +11,4 @@ For other related samples, check out the new [github.com/android/user-interface-
 [2]: https://github.com/android/user-interface-samples
 [3]: https://developers.google.com/ml-kit/vision
 [4]: https://github.com/firebase/quickstart-android/tree/master/mlkit
+[5]: https://codelabs.developers.google.com/codelabs/mobile-vision-ocr/#1 (tutorial link)
